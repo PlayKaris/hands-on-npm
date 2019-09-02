@@ -23,6 +23,9 @@
 ##### 전역모드
 ```npm install -g```
 
+### 외부모듈(-g) 내부모듈로 인스톨
+```npm install nconf -save```
+
 ### 설치한 패키지 업데이트
 ```npm update```
 
